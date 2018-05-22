@@ -1,0 +1,10 @@
+C:\Users\Jurec\source\repos\DTProc\DTProc\bin\Release\DTProc.exe.config
+C:\Users\Jurec\source\repos\DTProc\DTProc\bin\Release\DTProc.exe
+C:\Users\Jurec\source\repos\DTProc\DTProc\bin\Release\DTProc.pdb
+C:\Users\Jurec\source\repos\DTProc\DTProc\bin\Release\WRing lite.dll
+C:\Users\Jurec\source\repos\DTProc\DTProc\bin\Release\WRing lite.pdb
+C:\Users\Jurec\source\repos\DTProc\DTProc\obj\Release\DTProc.csproj.CoreCompileInputs.cache
+C:\Users\Jurec\source\repos\DTProc\DTProc\obj\Release\DTProc.csproj.CopyComplete
+C:\Users\Jurec\source\repos\DTProc\DTProc\obj\Release\DTProc.exe
+C:\Users\Jurec\source\repos\DTProc\DTProc\obj\Release\DTProc.pdb
+C:\Users\Jurec\source\repos\DTProc\DTProc\obj\Release\DTProc.csprojResolveAssemblyReference.cache
